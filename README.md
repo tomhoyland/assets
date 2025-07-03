@@ -1,2 +1,2 @@
 # Assets
-Random Assets without a Repository (yet)
+Random Assets without a Dedicated Repository (yet)
